@@ -3,3 +3,5 @@
 West Boudreaux - Team Organizer and Deployment Collaborator
 
 K. B. Grisby - Front-end HTML / CSS 
+
+Sam Collier-Tenison - Front-end Javascript / AJAX / SQL Schema Design
