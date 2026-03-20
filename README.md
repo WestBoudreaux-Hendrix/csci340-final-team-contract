@@ -35,9 +35,9 @@ Jeffrey Kamanga - Client Communication / SQL Schema Design
 ------TEAM PARTICIPATION------
 
 <ul>
-<li>Routine checkins and regular communication will ensure cooperation and equal distribution of tasks</li>
-<li>During team meetings there will be time for each member to share new ideas and/or thoughts/improvments on current strategies</li>
-<li>The team organizer will finish each meeting with a list of goals for the next meeting that will be used to help structure the next meeting in a timely manner</li>
+<li>Routine checkins and regular communication will ensure cooperation and equal distribution of tasks.</li>
+<li>During team meetings there will be time for each member to share new ideas and/or thoughts/improvments on current strategies.</li>
+<li>The team organizer will finish each meeting with a list of goals for the next meeting that will be used to help structure the next meeting in a timely manner.</li>
 </ul>
 
 
