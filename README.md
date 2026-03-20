@@ -1,5 +1,7 @@
 # csci340-final-team-contract
 
+------ TEAM MEMBERS ------
+
 West Boudreaux - Team Organizer / Deployment Collaborator
 
 K. B. Grisby - Front-end HTML / CSS 
