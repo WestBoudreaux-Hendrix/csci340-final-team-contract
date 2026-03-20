@@ -26,9 +26,9 @@ Jeffrey Kamanga - Client Communication / SQL Schema Design
 ------TEAM PROCEDURES------
 
 <ul>
-<li>At each meeting the team organizer will prepare an agenda, and each team member will also have space to discuss anything they need to bring for the meeting</li>
-<li>The team organizer will be responsible for keeping track of all records as well as clockify times for in person group work</li>
-<li>Should the team meet without all members present, the team organizer will take notes to share with all absent members</li>
+<li>At each meeting the team organizer will prepare an agenda, and each team member will also have space to discuss anything they need to bring for the meeting.</li>
+<li>The team organizer will be responsible for keeping track of all records as well as clockify times for in person group work.</li>
+<li>Should the team meet without all members present, the team organizer will take notes to share with all absent members.</li>
 </ul>
 
 
