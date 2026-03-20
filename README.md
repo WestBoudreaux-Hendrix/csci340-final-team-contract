@@ -15,7 +15,11 @@ Jeffrey Kamanga - Client Communication / SQL Schema Design
 ------TEAM STRUCTURE------
 
 <ul>
-<li> </li>
+<li> Leadership will be shared to make sure everyone feels like their voice is heard. </li>
+<li> We will try to reach a consensus on major decisions and will resort to a majority-vote if a consensus can't be reached. </li>
+<li> West will be the team recorder responsible for required turn-ins. </li>
+<li> Team meetings will be at the library: Monday/Wednesday 4:00pm-5:30pm ; Friday 1:00pm-2:00pm ; Sunday 5:00pm-6:00pm </li>
+<li> Most communication will be done through teams messages. </li>
 </ul>
 
 
