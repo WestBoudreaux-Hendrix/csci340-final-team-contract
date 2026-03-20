@@ -42,9 +42,11 @@ Jeffrey Kamanga - Client Communication / SQL Schema Design
 
 
 ------PERSONAL ACCOUNTABILITY------
-
 <ul>
-<li> </li>
+<li>Be present during in-person meetings. If not available, let the rest of the team know prior to the meeting.</li>
+<li>If late on deadlines, be able to communicate and be held accountable via Teams message or in-person.</li>
+<li>Be available to communcate on Teams.</li>
+<li>Final team decisions be made by majority. Everyone voice their opinions in meetups and in Teams. Everyone contribute to their specific tasks as well as the teams tasks.</li>
 </ul>
 
 
