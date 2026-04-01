@@ -53,5 +53,9 @@ Jeffrey Kamanga - Client Communication / SQL Schema Design
 ------BREACH OF CONTRACT------
 
 <ul>
-<li> </li>
+<li>
+We will conduct peer evaluations periodically checking in with one another at meetings to discuss any possible breach of contract.
+</li>
+<li>Should a member forget a task, we will send two reminders before bringing it to Dr. Goadrich for further intervention.</li>
+<li>For any major breach or extenuating circumstance, we will contact Dr. Goadrich.</li>
 </ul>
